@@ -5,7 +5,7 @@ My name is **Jae Wong**, a motivated 4th-Year Bachelor of Science in Information
 
 I am currently an Intern at **DakilaSoft IT Solutions**, aiming to expand my knowledge and gain experience in a professional IT setting.
 
-I am a student that enjoys collaborating with others to develop IT solutions that aid businesses, automate processes, and streamline services through consistent efforts and diligence.  
+I am a student that enjoys collaborating with others to develop IT solutions that aid businesses, automate processes, and streamline services through consistent effort and diligence.  
 
 **Skills:**  
 Software and Web Development | Problem Solving | CyberSecurity  
