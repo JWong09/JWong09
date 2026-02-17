@@ -11,12 +11,12 @@ I am a student that enjoys collaborating with others to develop IT solutions tha
 Software and Web Development | Problem Solving | CyberSecurity  
 
 **Tools:**  
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3e3dcb7b-757d-44e4-a113-602f6e072589" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f45315ee-9267-423e-b965-45a8ee93f872" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8e54ee22-a9d0-43ac-ace4-4396939d215a" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6d9dddf9-09c0-4905-9158-f452a6b98725" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3487cbe8-aae0-4766-afd0-4f183934a8e7" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf4c21c5-a50c-4203-8823-ddb32028663d" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3e3dcb7b-757d-44e4-a113-602f6e072589" title="VScode"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f45315ee-9267-423e-b965-45a8ee93f872" title="HTML"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8e54ee22-a9d0-43ac-ace4-4396939d215a" title="PHP"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6d9dddf9-09c0-4905-9158-f452a6b98725" title="Python"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3487cbe8-aae0-4766-afd0-4f183934a8e7" title="Java"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf4c21c5-a50c-4203-8823-ddb32028663d" title="GitHub"/>
 
 **Contact me through:**
 * Phone Number: +64 928 533 2940
