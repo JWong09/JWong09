@@ -1,7 +1,7 @@
 ## Greetings and Welcome to my hub!
 
 ![INSERT IMAGE](https://github.com/user-attachments/assets/73419ed1-1adc-4731-a384-fac791565c71)
-My name is **Jae Wong**, a motivated 4th-Year Bachelor of Science in Information Technology Student at **Pampanga State University**. I am an aspiring Fullstack Developer whose interests focus on Website and Software Development, with a wide range of fundamental skills involving Computer Hardware, Networking, and Cybersecurity.  
+My name is **Jae Wong**, a motivated 4th-Year Bachelor of Science in Information Technology Student at **Pampanga State University**. I am an aspiring Fullstack Developer whose interests focus on Website and Software Development, with a wide range of fundamental skills involving Computer Hardware, Database Administration, Networking, and Cybersecurity.  
 
 I am currently an Intern at **DakilaSoft IT Solutions**, aiming to expand my knowledge and gain experience in a professional IT setting.
 
